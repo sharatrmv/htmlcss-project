@@ -1,0 +1,33 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+}
+tbody tr {
+	text-align: left;
+}
+tbody tr td {
+	padding:  10px;
+	color: #ffffff;
+}
+table {
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1pt solid #b2b2b2;
+}
+.table-container {
+	width: 700px;
+    margin: 0 auto;
+    padding:  4px;
+    text-align: center;
+    background-image: linear-gradient(90deg, #590202 0%, #971717 35%, #f45956 100%);
+}
+
+h1 a {
+	color: white;
+    text-decoration: none;
+    border-bottom: 1px dashed white;
+}
+thead td {
+	font-weight:  bold;
+}
